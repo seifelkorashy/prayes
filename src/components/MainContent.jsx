@@ -1,6 +1,6 @@
 import { Box, Divider, Stack, Typography } from "@mui/material";
 import React, { useState, useEffect } from "react";
-import Prayer from "./prayer";
+import Prayer from "./Prayer";
 import InputLabel from "@mui/material/InputLabel";
 import MenuItem from "@mui/material/MenuItem";
 import FormControl from "@mui/material/FormControl";
